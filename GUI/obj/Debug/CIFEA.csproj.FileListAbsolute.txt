@@ -1,0 +1,63 @@
+C:\Users\rahul\source\repos\CIFEA\bin\Debug\CIFEA.exe.config
+C:\Users\rahul\source\repos\CIFEA\bin\Debug\CIFEA.exe
+C:\Users\rahul\source\repos\CIFEA\bin\Debug\CIFEA.pdb
+C:\Users\rahul\source\repos\CIFEA\obj\Debug\CIFEA.csprojAssemblyReference.cache
+C:\Users\rahul\source\repos\CIFEA\obj\Debug\CIFEA.Properties.Resources.resources
+C:\Users\rahul\source\repos\CIFEA\obj\Debug\CIFEA.csproj.GenerateResource.cache
+C:\Users\rahul\source\repos\CIFEA\obj\Debug\CIFEA.csproj.CoreCompileInputs.cache
+C:\Users\rahul\source\repos\CIFEA\obj\Debug\CIFEA.exe
+C:\Users\rahul\source\repos\CIFEA\obj\Debug\CIFEA.pdb
+C:\Users\rahul\source\repos\CIFEA\obj\Debug\CIFEA.Cyclic.resources
+C:\Users\rahul\source\repos\CIFEA\obj\Debug\CIFEA.Main.resources
+C:\Users\rahul\source\repos\CIFEA\obj\Debug\CIFEA.Square.resources
+C:\Users\rahul\source\repos\CIFEA\obj\Debug\CIFEA.Impedance.resources
+C:\Users\rahul\source\repos\CIFEA\bin\Debug\kayChart.dll
+C:\Users\rahul\source\repos\CIFEA\obj\Debug\CIFEA.csproj.CopyComplete
+C:\Users\rahul\Documents\Material\Semester 2\PLES\PLES\CIFEA Final\CIFEA\bin\Debug\CIFEA.exe.config
+C:\Users\rahul\Documents\Material\Semester 2\PLES\PLES\CIFEA Final\CIFEA\bin\Debug\CIFEA.exe
+C:\Users\rahul\Documents\Material\Semester 2\PLES\PLES\CIFEA Final\CIFEA\bin\Debug\CIFEA.pdb
+C:\Users\rahul\Documents\Material\Semester 2\PLES\PLES\CIFEA Final\CIFEA\bin\Debug\kayChart.dll
+C:\Users\rahul\Documents\Material\Semester 2\PLES\PLES\CIFEA Final\CIFEA\obj\Debug\CIFEA.csprojAssemblyReference.cache
+C:\Users\rahul\Documents\Material\Semester 2\PLES\PLES\CIFEA Final\CIFEA\obj\Debug\CIFEA.Impedance.resources
+C:\Users\rahul\Documents\Material\Semester 2\PLES\PLES\CIFEA Final\CIFEA\obj\Debug\CIFEA.Square.resources
+C:\Users\rahul\Documents\Material\Semester 2\PLES\PLES\CIFEA Final\CIFEA\obj\Debug\CIFEA.Cyclic.resources
+C:\Users\rahul\Documents\Material\Semester 2\PLES\PLES\CIFEA Final\CIFEA\obj\Debug\CIFEA.Main.resources
+C:\Users\rahul\Documents\Material\Semester 2\PLES\PLES\CIFEA Final\CIFEA\obj\Debug\CIFEA.Properties.Resources.resources
+C:\Users\rahul\Documents\Material\Semester 2\PLES\PLES\CIFEA Final\CIFEA\obj\Debug\CIFEA.csproj.GenerateResource.cache
+C:\Users\rahul\Documents\Material\Semester 2\PLES\PLES\CIFEA Final\CIFEA\obj\Debug\CIFEA.csproj.CoreCompileInputs.cache
+C:\Users\rahul\Documents\Material\Semester 2\PLES\PLES\CIFEA Final\CIFEA\obj\Debug\CIFEA.csproj.CopyComplete
+C:\Users\rahul\Documents\Material\Semester 2\PLES\PLES\CIFEA Final\CIFEA\obj\Debug\CIFEA.exe
+C:\Users\rahul\Documents\Material\Semester 2\PLES\PLES\CIFEA Final\CIFEA\obj\Debug\CIFEA.pdb
+D:\Material\Semester 2\PLES\PLES\CIFEA Final\CIFEA - Copy\bin\Debug\CIFEA.exe.config
+D:\Material\Semester 2\PLES\PLES\CIFEA Final\CIFEA - Copy\bin\Debug\CIFEA.exe
+D:\Material\Semester 2\PLES\PLES\CIFEA Final\CIFEA - Copy\bin\Debug\CIFEA.pdb
+D:\Material\Semester 2\PLES\PLES\CIFEA Final\CIFEA - Copy\bin\Debug\kayChart.dll
+D:\Material\Semester 2\PLES\PLES\CIFEA Final\CIFEA - Copy\obj\Debug\CIFEA.csproj.AssemblyReference.cache
+D:\Material\Semester 2\PLES\PLES\CIFEA Final\CIFEA - Copy\obj\Debug\CIFEA.csproj.SuggestedBindingRedirects.cache
+D:\Material\Semester 2\PLES\PLES\CIFEA Final\CIFEA - Copy\obj\Debug\CIFEA.Impedance.resources
+D:\Material\Semester 2\PLES\PLES\CIFEA Final\CIFEA - Copy\obj\Debug\CIFEA.Square.resources
+D:\Material\Semester 2\PLES\PLES\CIFEA Final\CIFEA - Copy\obj\Debug\CIFEA.Cyclic.resources
+D:\Material\Semester 2\PLES\PLES\CIFEA Final\CIFEA - Copy\obj\Debug\CIFEA.Main.resources
+D:\Material\Semester 2\PLES\PLES\CIFEA Final\CIFEA - Copy\obj\Debug\CIFEA.Properties.Resources.resources
+D:\Material\Semester 2\PLES\PLES\CIFEA Final\CIFEA - Copy\obj\Debug\CIFEA.csproj.GenerateResource.cache
+D:\Material\Semester 2\PLES\PLES\CIFEA Final\CIFEA - Copy\obj\Debug\CIFEA.csproj.CoreCompileInputs.cache
+D:\Material\Semester 2\PLES\PLES\CIFEA Final\CIFEA - Copy\obj\Debug\CIFEA.csproj.CopyComplete
+D:\Material\Semester 2\PLES\PLES\CIFEA Final\CIFEA - Copy\obj\Debug\CIFEA.exe
+D:\Material\Semester 2\PLES\PLES\CIFEA Final\CIFEA - Copy\obj\Debug\CIFEA.pdb
+C:\Users\rahul\Documents\CIFEA - Jan14\bin\Debug\CIFEA.exe.config
+C:\Users\rahul\Documents\CIFEA - Jan14\bin\Debug\CIFEA.exe
+C:\Users\rahul\Documents\CIFEA - Jan14\bin\Debug\CIFEA.pdb
+C:\Users\rahul\Documents\CIFEA - Jan14\bin\Debug\kayChart.dll
+C:\Users\rahul\Documents\CIFEA - Jan14\obj\Debug\CIFEA.csproj.AssemblyReference.cache
+C:\Users\rahul\Documents\CIFEA - Jan14\obj\Debug\CIFEA.csproj.SuggestedBindingRedirects.cache
+C:\Users\rahul\Documents\CIFEA - Jan14\obj\Debug\CIFEA.Impedance.resources
+C:\Users\rahul\Documents\CIFEA - Jan14\obj\Debug\CIFEA.Differential.resources
+C:\Users\rahul\Documents\CIFEA - Jan14\obj\Debug\CIFEA.Square.resources
+C:\Users\rahul\Documents\CIFEA - Jan14\obj\Debug\CIFEA.Cyclic.resources
+C:\Users\rahul\Documents\CIFEA - Jan14\obj\Debug\CIFEA.Main.resources
+C:\Users\rahul\Documents\CIFEA - Jan14\obj\Debug\CIFEA.Properties.Resources.resources
+C:\Users\rahul\Documents\CIFEA - Jan14\obj\Debug\CIFEA.csproj.GenerateResource.cache
+C:\Users\rahul\Documents\CIFEA - Jan14\obj\Debug\CIFEA.csproj.CoreCompileInputs.cache
+C:\Users\rahul\Documents\CIFEA - Jan14\obj\Debug\CIFEA.csproj.CopyComplete
+C:\Users\rahul\Documents\CIFEA - Jan14\obj\Debug\CIFEA.exe
+C:\Users\rahul\Documents\CIFEA - Jan14\obj\Debug\CIFEA.pdb

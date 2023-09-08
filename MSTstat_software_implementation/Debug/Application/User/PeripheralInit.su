@@ -1,0 +1,9 @@
+core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+PeripheralInit.c:5:6:General_GPIO_Init	4	static
+PeripheralInit.c:12:6:CV_Dual_DAC_Init	24	static
+PeripheralInit.c:35:6:CV_Single_ADC_Init	16	static
+PeripheralInit.c:70:6:UART_Transmit_Init	4	static
+PeripheralInit.c:91:6:IS_Dual_ADC_Init	24	static
+PeripheralInit.c:160:6:IS_Dual_DAC_Init	24	static
+PeripheralInit.c:202:6:DPV_Timer3_DAC_Init	24	static
+PeripheralInit.c:227:6:DMA_MemToMem_Xfer	4	static

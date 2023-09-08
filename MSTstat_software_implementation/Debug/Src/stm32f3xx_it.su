@@ -1,0 +1,13 @@
+stm32f3xx_it.c:81:6:voltammetry_FIR_filter	64	static
+stm32f3xx_it.c:141:6:TIM4_IRQHandler	112	static
+stm32f3xx_it.c:373:6:TIM3_IRQHandler	4	static
+stm32f3xx_it.c:399:6:ADC1_2_IRQHandler	24	static
+stm32f3xx_it.c:519:6:NMI_Handler	4	static
+stm32f3xx_it.c:532:6:HardFault_Handler	4	static
+stm32f3xx_it.c:547:6:MemManage_Handler	4	static
+stm32f3xx_it.c:562:6:BusFault_Handler	4	static
+stm32f3xx_it.c:577:6:UsageFault_Handler	4	static
+stm32f3xx_it.c:592:6:SVC_Handler	4	static
+stm32f3xx_it.c:605:6:DebugMon_Handler	4	static
+stm32f3xx_it.c:618:6:PendSV_Handler	4	static
+stm32f3xx_it.c:631:6:SysTick_Handler	8	static
